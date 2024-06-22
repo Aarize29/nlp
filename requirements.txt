@@ -1,5 +1,0 @@
-flask-ngrok
-flask-wtf
-nltk
-numpy
-tensorflow
